@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ioplker
+- 👀 I’m interested in system design (UML, ontologies and stuff)
+- 🌱 I’m currently learning Nim (as a home projects base lang)
+- 💞️ I’m looking to collaborate on tools like PlantUML, Textadept and NixOS
+- 📫 You can reach me with an email to panswitcher@yandex.ru
